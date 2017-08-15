@@ -16,7 +16,6 @@
     transition: opacity 1s;
 }
 
-
 .photo img.shown{
      opacity: 1;
 }
